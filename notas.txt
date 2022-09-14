@@ -1,0 +1,9 @@
+Actividad 1
+Distancia euclidiana con pitagoras
+Actividad 2
+Se calcula el desplazamiento se elevan al cuadra se suman y se promedian
+Actividad 3
+IMPLEMENTAR FUNCION QUE RECIBA COMO ARGUMENTO DOS VCTORES Y CALCULEN ENTRE ELLOS (REBCIBE TRES ARGUMENTOS LOS PUNTOS DE INICIO Y FIN DE CADA VECTOR)
+PRODUCTO PUNTO Y PRODUCTO CRUZ
+FUNCIONES TRIGONOMETRICAS
+graficas con grafic objects
